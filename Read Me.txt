@@ -1,0 +1,10 @@
+1) Change The usename to sa & password to 123456.
+2) Right click on the database and go to restore and select the Inventory.bak file.
+3) Run the Project File in the netbeans. 
+
+Group Members:
+190204094
+190204095
+190204100
+190204110
+190104005
